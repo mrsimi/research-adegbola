@@ -2,6 +2,7 @@ Setup
 1. Ensure you have python installed. If not download and install
 2. Install pickle and numpy using this code `pip3 install pickle numpy` or `pip install pickle numpy`
 
+
 Running Modelone.py
 Edit the values in the sample data variable here 
 ```
@@ -13,7 +14,10 @@ if __name__ == "__main__":
     print(prediction) 
                     
 ```
-
+Then type 
+```
+python3 modelone.py in the commond prompt/terminal 
+```
 with the data as label. The result comes out like this 
 
 ```
